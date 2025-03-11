@@ -1,0 +1,35 @@
+[06-Nov-2021 23:40:02 Asia/Taipei] PHP Warning:  A non-numeric value encountered in /home/egnettw1/moebao.1oe0.com/Ajax/Pet.php on line 7
+[06-Nov-2021 23:40:02 Asia/Taipei] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/egnettw1/moebao.1oe0.com/Ajax/Pet.php on line 21
+[06-Nov-2021 23:40:07 Asia/Taipei] PHP Warning:  A non-numeric value encountered in /home/egnettw1/moebao.1oe0.com/Ajax/Pet.php on line 7
+[06-Nov-2021 23:40:07 Asia/Taipei] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/egnettw1/moebao.1oe0.com/Ajax/Pet.php on line 21
+[07-Nov-2021 00:27:40 Asia/Taipei] PHP Notice:  Undefined index: ID in /home/egnettw1/moebao.1oe0.com/Ajax/Pet.php on line 38
+[07-Nov-2021 00:27:45 Asia/Taipei] PHP Notice:  Undefined index: ID in /home/egnettw1/moebao.1oe0.com/Ajax/Pet.php on line 38
+[07-Nov-2021 00:27:56 Asia/Taipei] PHP Notice:  Undefined index: ID in /home/egnettw1/moebao.1oe0.com/Ajax/Pet.php on line 38
+[07-Nov-2021 11:25:06 Asia/Taipei] PHP Notice:  Undefined index: Discount in /home/egnettw1/moebao.1oe0.com/Ajax/Pet.php on line 50
+[08-Nov-2021 21:20:03 Asia/Taipei] PHP Notice:  Undefined index: Customer_Name in /home/egnettw1/moebao.1oe0.com/Ajax/Record.php on line 27
+[08-Nov-2021 21:20:03 Asia/Taipei] PHP Notice:  Undefined index: Customer_Phone_1 in /home/egnettw1/moebao.1oe0.com/Ajax/Record.php on line 28
+[08-Nov-2021 21:20:03 Asia/Taipei] PHP Notice:  Undefined index: Customer_Phone_2 in /home/egnettw1/moebao.1oe0.com/Ajax/Record.php on line 29
+[08-Nov-2021 21:20:03 Asia/Taipei] PHP Notice:  Undefined index: Customer_Phone_3 in /home/egnettw1/moebao.1oe0.com/Ajax/Record.php on line 30
+[08-Nov-2021 21:20:03 Asia/Taipei] PHP Notice:  Undefined index: Customer_Address in /home/egnettw1/moebao.1oe0.com/Ajax/Record.php on line 31
+[08-Nov-2021 21:20:03 Asia/Taipei] PHP Notice:  Undefined index: Pet_Name in /home/egnettw1/moebao.1oe0.com/Ajax/Record.php on line 32
+[08-Nov-2021 21:20:03 Asia/Taipei] PHP Notice:  Undefined index: Pet_Sex in /home/egnettw1/moebao.1oe0.com/Ajax/Record.php on line 33
+[08-Nov-2021 21:20:03 Asia/Taipei] PHP Notice:  Undefined index: Pet_Breed in /home/egnettw1/moebao.1oe0.com/Ajax/Record.php on line 34
+[08-Nov-2021 21:20:03 Asia/Taipei] PHP Notice:  Undefined index: Pet_Size in /home/egnettw1/moebao.1oe0.com/Ajax/Record.php on line 35
+[08-Nov-2021 21:20:03 Asia/Taipei] PHP Notice:  Undefined index: Pet_Age in /home/egnettw1/moebao.1oe0.com/Ajax/Record.php on line 36
+[08-Nov-2021 21:20:03 Asia/Taipei] PHP Notice:  Undefined index: Pet_Amount in /home/egnettw1/moebao.1oe0.com/Ajax/Record.php on line 37
+[08-Nov-2021 21:20:03 Asia/Taipei] PHP Notice:  Undefined index: Pet_Remark in /home/egnettw1/moebao.1oe0.com/Ajax/Record.php on line 38
+[19-Nov-2021 14:02:31 Asia/Taipei] PHP Notice:  Undefined index: Goods in /home/egnettw1/moebao.1oe0.com/Ajax/Shopee.php on line 13
+[19-Nov-2021 14:02:39 Asia/Taipei] PHP Notice:  Undefined index: Goods in /home/egnettw1/moebao.1oe0.com/Ajax/Shopee.php on line 13
+[21-Oct-2022 14:15:21 Asia/Taipei] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/egnettw1/moebao.1oe0.com/Ajax/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/egnettw1/moebao.1oe0.com/Ajax/index.php on line 11
+[28-Oct-2023 13:39:41 Asia/Taipei] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/egnettw1/moebao.1oe0.com/Ajax/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/egnettw1/moebao.1oe0.com/Ajax/index.php on line 11
+[28-Oct-2023 13:39:42 Asia/Taipei] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home/egnettw1/moebao.1oe0.com/Ajax/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/egnettw1/moebao.1oe0.com/Ajax/index.php on line 11
+[05-Feb-2024 10:56:37 Asia/Taipei] PHP Notice:  Undefined index: Time_End in /home/egnettw1/moebao.1oe0.com/Ajax/Reserve.php on line 13
